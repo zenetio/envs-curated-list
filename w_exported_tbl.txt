@@ -8,10 +8,10 @@
 |         6 | az-conda    | Use Azure package    |
 |         7 | carnd-sim   | Self-Driving Car simulator @ Udacity course   |
 |         8 | carnd-t1    | Self-Driving Car Engineer ND course @ Udacity    |
-|         9 | cv4         | Use OpenCV4 package         |
-|        10 | dl4m-gpu    | AI for Medicine Specialisation course (GPU) + TensorFlow    |
-|        11 | dl4m-gpunn  | AI for Medicine Specialisation course (GPU) + Pytorch  |
-|        12 | dl4m1x      | AI for Medicine Specialisation course (GPU) + TensorFlow 1.15      |
+|         9 | cv4         | Use OpenCV4 package                                             |
+|        10 | dl4m-gpu    | AI for Medicine Specialisation course (GPU) + TensorFlow        |
+|        11 | dl4m-gpunn  | AI for Medicine Specialisation course (GPU) + Pytorch           |
+|        12 | dl4m1x      | AI for Medicine Specialisation course (GPU) + TensorFlow 1.15   |
 |        13 | fbase       | Use firebase package       |
 |        14 | gans-pt14   | Use GAN model + Pytorch 1.4   |
 |        15 | gpt4all     | Use GPT4All model     |
