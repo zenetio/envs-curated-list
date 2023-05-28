@@ -1,0 +1,42 @@
+|   item id | name        | description                       |
+|----------:|:------------|:----------------------------------|
+|         1 | adanet      | Use AutoMl with AdaNet package      |
+|         2 | akeras      | Use Auto Keras 1.0.16 package      |
+|         3 | akeras1     | Use Auto Keras 1.1.0 package     |
+|         4 | aug         | Use Augmentation package         |
+|         5 | autogpt     | Use Auto-GPT package     |
+|         6 | az-conda    | Use Azure package    |
+|         7 | carnd-sim   | Self-Driving Car simulator @ Udacity course   |
+|         8 | carnd-t1    | Self-Driving Car Engineer ND course @ Udacity    |
+|         9 | cv4         | Use OpenCV4 package         |
+|        10 | dl4m-gpu    | AI for Medicine Specialisation course (GPU) + TensorFlow    |
+|        11 | dl4m-gpunn  | AI for Medicine Specialisation course (GPU) + Pytorch  |
+|        12 | dl4m1x      | AI for Medicine Specialisation course (GPU) + TensorFlow 1.15      |
+|        13 | fbase       | Use firebase package       |
+|        14 | gans-pt14   | Use GAN model + Pytorch 1.4   |
+|        15 | gpt4all     | Use GPT4All model     |
+|        16 | jupylab     | Use JupyLab package     |
+|        17 | labelimg    | Use  Labelimg package    |
+|        18 | lavis       | Use Lavis package       |
+|        19 | ldm         | Use Latent Difusion package         |
+|        20 | manning.tf2 | TensorFlow 2 book @ Manning |
+|        21 | manning.tfx | TensorFlow book @ Manning |
+|        22 | monai       | Use Monai model + Pytorch       |
+|        23 | monai2      | Use the Monai model + Torch      |
+|        24 | msvision    | Use the Microsoft Vision package    |
+|        25 | ocpp21      | Use ocpp21 package      |
+|        26 | openvino    | Use Openvino package    |
+|        27 | playtorch   | Use PlayTorch package   |
+|        28 | project     | Use Project pacakge     |
+|        29 | pytorch-env | Use Pytorch + Azure  |
+|        30 | pyviz       | Use PyViz package       |
+|        31 | sam         | Use Segment Anything package         |
+|        32 | sdv2        | Use Stable Diffusion v2 package        |
+|        33 | tf2         | Use TensorFlow 2 package (GPU)         |
+|        34 | tf210       | Use TensorFlow 2.1 package (GPU)
+|        35 | tfod        | Use TensorFlow for Object Detection        |
+|        36 | visgpt      | Use Visual GPT package      |
+|        37 | vissl       | Use Vision SOTA Self-Supervised Learning
+|        38 | yo1         | Use to run Yolo5 (Openvino + Onnx)         |
+|        39 | yolo5       | Use to run Yolo5 model       |
+|        40 | yolo5-tf    | Use TensorFlow 2 to run yolo5 model    |

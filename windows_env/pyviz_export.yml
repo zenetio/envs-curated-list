@@ -1,0 +1,21 @@
+name: pyviz
+channels:
+  - peterjc123
+  - willyd
+  - conda-forge
+  - defaults
+dependencies:
+  - certifi=2020.6.20=pyhd3eb1b0_3
+  - pip=20.0.2=py36_1
+  - python=3.6.15=h39d44d4_0_cpython
+  - python_abi=3.6=2_cp36m
+  - setuptools=49.6.0=py36ha15d459_3
+  - ucrt=10.0.20348.0=h57928b3_0
+  - vc=14.1=h21ff451_1
+  - vs2015_runtime=14.29.30037=h902a5da_6
+  - vs2017_runtime=15.4.27004.2010=1
+  - wheel=0.37.1=pyhd8ed1ab_0
+  - wincertstore=0.2=py36ha15d459_1006
+  - pip:
+      - docutils==0.18.1
+      - python-snappy==0.6.1

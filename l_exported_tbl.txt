@@ -1,0 +1,15 @@
+|   item id | name        | Where to Use                                    |
+|----------:|:------------|:------------------------------------------------|
+|         1 | akeras      | Run the Auto Keras package                      |
+|         2 | carnd-t1    | Self-Driving Car Engineer ND course @ Udacity   |                      |
+|         3 | dl4m-gpu    | AI for Medicine Specialisation course (GPU)     |
+|         4 | gluon       | Use Gluon package                           |
+|         5 | ldm         | Use Latent Difusion package                 |
+|         6 | manning.tfx | TensorFlow book @ Manning                     |
+|         7 | monai2      | Use Monai package                           |
+|         8 | ocpp16      | Use ocpp 1.6 package                    |
+|         9 | pyviz       | Use PyViz package                           |
+|        10 | sdv2        | Use Stable Diffusion v2 package            |
+|        11 | tfmaker     | Use TensorFlow Maker package                |
+|        12 | tfod        | Use TensorFlow Object Detection package     |
+|        13 | yolov5      | Use to run Yolov5 model                          |

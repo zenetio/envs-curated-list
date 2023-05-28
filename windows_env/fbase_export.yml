@@ -1,0 +1,27 @@
+name: fbase
+channels:
+  - peterjc123
+  - willyd
+  - conda-forge
+  - defaults
+dependencies:
+  - ca-certificates=2021.5.30=h5b45459_0
+  - certifi=2021.5.30=py37h03978a9_0
+  - openssl=1.1.1k=h8ffe710_0
+  - pip=21.1.3=pyhd8ed1ab_0
+  - python=3.7.10=h7840368_100_cpython
+  - python_abi=3.7=2_cp37m
+  - setuptools=49.6.0=py37h03978a9_3
+  - sqlite=3.36.0=h8ffe710_0
+  - ucrt=10.0.20348.0=h57928b3_0
+  - vc=14.1=h21ff451_1
+  - vs2015_runtime=14.29.30037=h902a5da_5
+  - vs2017_runtime=15.4.27004.2010=1
+  - wheel=0.36.2=pyhd3deb0d_0
+  - wincertstore=0.2=py37h03978a9_1006
+  - pip:
+      - charset-normalizer==3.1.0
+      - firebase==4.0.1
+      - idna==3.4
+      - requests==2.31.0
+      - urllib3==2.0.2
