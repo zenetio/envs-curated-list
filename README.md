@@ -34,7 +34,7 @@ Windows
 |        16 | [jupylab](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/jupylab_export.yml)     | Use JupyLab package                                             |
 |        17 | [labelimg](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/labeling_export.yml)    | Use  Labelimg package                                           |
 |        18 | [lavis](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/lavis_export.yml)       | Use Lavis package                                               |
-|        19 | [ldm](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/ldm_export.yml)         | Use Latent Difusion package                                     |
+|        19 | [ldm](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/ldm_export.yml)         | Use Latent Difusion Model package                                     |
 |        20 | [manning.tf2](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/manning.tf2_export.yml) | TensorFlow 2 book @ Manning                                     |
 |        21 | [manning.tfx](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/manning.tfx_export.yml) | TensorFlow book @ Manning                                       |
 |        22 | [monai](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/monai_export.yml)       | Use Monai model + Pytorch                                       |
@@ -66,7 +66,7 @@ Linux
 |         2 | [carnd-t1](https://github.com/zenetio/envs-curated-list/blob/main/linux_env/carnd-t1_export.yml)    | Self-Driving Car Engineer ND course @ Udacity   |                      |
 |         3 | [dl4m-gpu](https://github.com/zenetio/envs-curated-list/blob/main/linux_env/dl4m-gpu_export.yml)    | AI for Medicine Specialisation course (GPU)     |
 |         4 | [gluon](https://github.com/zenetio/envs-curated-list/blob/main/linux_env/gluon_export.yml)       | Use Gluon package                               |
-|         5 | [ldm](https://github.com/zenetio/envs-curated-list/blob/main/linux_env/ldm_export.yml)         | Use Latent Difusion package                     |
+|         5 | [ldm](https://github.com/zenetio/envs-curated-list/blob/main/linux_env/ldm_export.yml)         | Use Latent Difusion Moel package                     |
 |         6 | [manning.tfx](https://github.com/zenetio/envs-curated-list/blob/main/linux_env/manning.tfx_export.yml) | TensorFlow book @ Manning                       |
 |         7 | [monai2](https://github.com/zenetio/envs-curated-list/blob/main/linux_env/monai2_export.yml)      | Use Monai package                               |
 |         8 | [ocpp16](https://github.com/zenetio/envs-curated-list/blob/main/linux_env/ocpp16_export.yml)      | Use ocpp 1.6 package                            |
