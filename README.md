@@ -6,7 +6,8 @@ To create an environment, copy or download the requirements.yml file you are int
 ```python
 conda env create -f requirements.yml
 ```
-After creating the env, you can add or modify any package using the conda or pip command. A list of `ready to use` is useful because sometimes is difficult and may take hours to create a working environment due to the need for a combination of different versions of libraries.
+After creating the env, you can add or modify any package using the conda or pip command.
+<br>
 
 ------------------
 Windows
@@ -74,3 +75,5 @@ Linux
 |        11 | [tfmaker](https://github.com/zenetio/envs-curated-list/blob/main/linux_env/tfmaker_export.yml)     | Use TensorFlow Maker package                    |
 |        12 | [tfod](https://github.com/zenetio/envs-curated-list/blob/main/linux_env/tfod_export.yml)        | Use TensorFlow Object Detection package         |
 |        13 | [yolov5](https://github.com/zenetio/envs-curated-list/blob/main/linux_env/yolov5_export.yml)      | Use to run Yolov5 model                         |
+
+Creating requirements files can sometimes be challenging, especially when dealing with libraries that have different version requirements. The curated list of environment files can help alleviate this issue by providing pre-configured environments with compatible versions of libraries and dependencies. Developers can reference these files as a starting point, ensuring a smoother process of creating requirements files tailored to their specific needs.
