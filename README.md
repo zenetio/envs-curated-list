@@ -32,31 +32,32 @@ Windows
 |        14 | [gans-pt14](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/gans-pt14_export.yml)   | Use GAN model + Pytorch 1.4                                     |
 |        15 | [gpt4all](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/gpt4all_export.yml)     | Use GPT4All model                                               |
 |        16 | [jupylab](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/jupylab_export.yml)     | Use JupyLab package                                             |
-|        17 | [labelimg](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/labeling_export.yml)    | Use  Labelimg package                                           |
-|        18 | [lavis](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/lavis_export.yml)       | Use Lavis package                                               |
-|        19 | [ldm](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/ldm_export.yml)         | Use Latent Difusion Model package                                     |
-|        20 | [manning.tf2](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/manning.tf2_export.yml) | TensorFlow 2 book @ Manning                                     |
-|        21 | [manning.tfx](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/manning.tfx_export.yml) | TensorFlow book @ Manning                                       |
-|        22 | [monai](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/monai_export.yml)       | Use Monai model + Pytorch                                       |
-|        23 | [monai2](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/monai2_export.yml)      | Use the Monai model + Torch                                     |
-|        24 | [msvision](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/msvision_export.yml)    | Use the Microsoft Vision package                                |
-|        25 | [ocpp21](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/ocpp21_export.yml)      | Use ocpp21 package                                              |
-|        26 | [openvino](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/openvino_export.yml)    | Use Openvino package                                            |
-|        27 | [playtorch](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/playtorch_export.yml)   | Use PlayTorch package                                           |
-|        28 | [privateGPT](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/privateGPT_export.yml)    | Use privateGPT model                             |
-|        29 | [project](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/project_export.yml)     | Use Project pacakge                                             |
-|        30 | [pytorch-env](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/pytorch-env_export.yml) | Use Pytorch + Azure                                             |
-|        31 | [pyviz](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/pyviz_export.yml)       | Use PyViz package                                               |
-|        32 | [sam](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/sam_export.yml)         | Use Segment Anything package                                    |
-|        33 | [sdv2](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/sdv2_export.yml)        | Use Stable Diffusion v2 package                                 |
-|        34 | [tf2](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/tf2_export.yml)         | Use TensorFlow 2 package (GPU)                                  |
-|        35 | [tf210](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/tf210_export.yml)       | Use TensorFlow 2.1 package (GPU)                                |
-|        36 | [tfod](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/tfod_export.yml)        | Use TensorFlow for Object Detection                             |
-|        37 | [visgpt](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/visgpt_export.yml)      | Use Visual GPT package                                          |
-|        38 | [vissl](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/vissl_export.yml)       | Use Vision SOTA Self-Supervised Learning                        |
-|        39 | [yo1](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/yo1_export.yml)         | Use to run Yolo5 (Openvino + Onnx)                              |
-|        40 | [yolo5](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/yolo5_export.yml)       | Use to run Yolo5 model                                          |
-|        41 | [yolo5-tf](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/yolo5-tf_export.yml)    | Use TensorFlow 2 to run yolo5 model                             |
+|        17 | [jupyter_ai](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/jupyter_ai_export.yml)    | Use  ChatGPT with Jupyter Lab package                                           |
+|        18 | [labelimg](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/labeling_export.yml)    | Use  Labelimg package                                           |
+|        19 | [lavis](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/lavis_export.yml)       | Use Lavis package                                               |
+|        20 | [ldm](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/ldm_export.yml)         | Use Latent Difusion Model package                                     |
+|        21 | [manning.tf2](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/manning.tf2_export.yml) | TensorFlow 2 book @ Manning                                     |
+|        22 | [manning.tfx](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/manning.tfx_export.yml) | TensorFlow book @ Manning                                       |
+|        23 | [monai](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/monai_export.yml)       | Use Monai model + Pytorch                                       |
+|        24 | [monai2](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/monai2_export.yml)      | Use the Monai model + Torch                                     |
+|        25 | [msvision](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/msvision_export.yml)    | Use the Microsoft Vision package                                |
+|        26 | [ocpp21](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/ocpp21_export.yml)      | Use ocpp21 package                                              |
+|        27 | [openvino](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/openvino_export.yml)    | Use Openvino package                                            |
+|        28 | [playtorch](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/playtorch_export.yml)   | Use PlayTorch package                                           |
+|        29 | [privateGPT](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/privateGPT_export.yml)    | Use privateGPT model                             |
+|        30 | [project](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/project_export.yml)     | Use Project pacakge                                             |
+|        31 | [pytorch-env](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/pytorch-env_export.yml) | Use Pytorch + Azure                                             |
+|        32 | [pyviz](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/pyviz_export.yml)       | Use PyViz package                                               |
+|        33 | [sam](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/sam_export.yml)         | Use Segment Anything package                                    |
+|        34 | [sdv2](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/sdv2_export.yml)        | Use Stable Diffusion v2 package                                 |
+|        35 | [tf2](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/tf2_export.yml)         | Use TensorFlow 2 package (GPU)                                  |
+|        36 | [tf210](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/tf210_export.yml)       | Use TensorFlow 2.1 package (GPU)                                |
+|        37 | [tfod](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/tfod_export.yml)        | Use TensorFlow for Object Detection                             |
+|        38 | [visgpt](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/visgpt_export.yml)      | Use Visual GPT package                                          |
+|        39 | [vissl](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/vissl_export.yml)       | Use Vision SOTA Self-Supervised Learning                        |
+|        40 | [yo1](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/yo1_export.yml)         | Use to run Yolo5 (Openvino + Onnx)                              |
+|        41 | [yolo5](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/yolo5_export.yml)       | Use to run Yolo5 model                                          |
+|        42 | [yolo5-tf](https://github.com/zenetio/envs-curated-list/blob/main/windows_env/yolo5-tf_export.yml)    | Use TensorFlow 2 to run yolo5 model                             |
 ---
 Linux
 
