@@ -1,7 +1,8 @@
 # Curated List of Conda Environments
-This repo presents a curated list of conda environments.
+This repo presents a curated list of Conda environments.
+One of the tasks where Conda env has been very useful is managing LLM environments.
 
-To create an environment, copy or download the requirements.yml file you are interested on and run the command:
+To create an environment, copy or download the requirements.yml file you are interested in and run the command:
 
 ```python
 conda env create -f requirements.yml
